@@ -21,6 +21,7 @@
 <img align="left" alt="BI-LO.svg" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/BI-LO_Logo.svg" /><b>BI-LO | Customer Service Manager</b> <i>(Jan 2018 - Mar 2020)</i>
 
 <h2> 🧠 Skills</h2>
+
 - Operating Systems
 -
 
