@@ -20,6 +20,10 @@
 <br></br>
 <img align="left" alt="BI-LO.svg" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/BI-LO_Logo.svg" /><b>BI-LO | Customer Service Manager</b> <i>(Jan 2018 - Mar 2020)</i>
 
+<h2> 🧠 Skills</h2>
+- Operating Systems
+-
+
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
