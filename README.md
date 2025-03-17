@@ -1,21 +1,24 @@
 <h1>Hi, I'm Dylan! <br/><a href="https://github.com/dylanhester">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/dylanhester2/">Student</a>, <a href="https://www.dylanhester.com/">Webiste Designer</a></h1>
 
-<h2>👨‍💻 Technical Certifications:</h2>
+<h2>🎓 Technical Certifications:</h2>
 
-- [Technical Support Fundamentals <i>(Google/Coursera - Oct 2023)</i>](https://coursera.org/verify/54GK8G9CDM3E)
-- [Build a Full Website using WordPress <i>(Coursera - Oct 2023)</i>](https://coursera.org/verify/FMHZ3T4JTXDA)
-- [The Bits & Bytes of Computer Networking <i>(Google/Coursera - Oct 2023)</i>](https://coursera.org/verify/6MTUB69UU2YD )</b>
-- [Introduction to Data Analysis Using Microsoft Excel <i>(Coursera - Aug 2023)</i>](https://coursera.org/verify/NQFNHSSJEYLU)
+- [Technical Support Fundamentals — <i>(Google/Coursera - Oct 2023)</i>](https://coursera.org/verify/54GK8G9CDM3E)
+- [Build a Full Website using WordPress — <i>(Coursera - Oct 2023)</i>](https://coursera.org/verify/FMHZ3T4JTXDA)
+- [The Bits & Bytes of Computer Networking — <i>(Google/Coursera - Oct 2023)</i>](https://coursera.org/verify/6MTUB69UU2YD )
+- [Introduction to Data Analysis Using Microsoft Excel — <i>(Coursera - Aug 2023)</i>](https://coursera.org/verify/NQFNHSSJEYLU)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2> 🍎 Education</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- A.A.S Business Administration — [Gaston College]([https://www.gaston.edu](https://catalog.gaston.edu/preview_program.php?catoid=34&poid=4986&returnto=1732))
+- High School Diploma — [Gaston College](https://www.gaston.edu)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📁 Experience</h2>
+
+<img align="left" alt="Target_Logo.svg" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" /><b>Target Distribution Center | Outbound Warehouse Associate</b> <i>(Nov 2024-Present)</i>
+<br></br>
+<img align="left" alt="Zips_Car_Wash_Logo.svg" width="36px" src="https://www.zipscarwash.com/assets/svg/Zips-Logo.svg" /><b>Zips Car Wash | Site Manager</b> <i>(Mar 2020-Jan 2024)</i>
+<br></br>
+<<img align="left" alt="BI-LO.svg" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/BI-LO_Logo.svg" /><b>BI-LO | Customer Service Manager</b> <i>(Jan 2018-Mar 2020)</i>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
