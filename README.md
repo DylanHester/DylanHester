@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan! <br/><a href="https://github.com/dylanhester">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/dylanhester2/">Student</a>, <a href="https://www.dylanhester.com/">Webiste Designer</a></h1>
+<h1>Hi, I'm Dylan! <br/><a href="https://github.com/dylanhester">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/dylanhester2/">Student</a>, <a href="https://www.dylanhester.com/">Website Designer</a></h1>
 
 <h2>🎓 Technical Certifications</h2>
 
