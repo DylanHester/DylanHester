@@ -16,7 +16,7 @@
 
 <img align="left" alt="Target_Logo.svg" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg" /><b>Target Distribution Center | Outbound Warehouse Associate</b> <i>(Nov 2024 - Present)</i>
 <br></br>
-<img align="left" alt="Zips_Car_Wash_Logo.svg" width="36px" src="https://www.zipscarwash.com/assets/svg/Zips-Logo.svg" /><b>Zips Car Wash | Site Manager</b> <i>(Mar 2020 - Jan 2024)</i>
+<img align="left" alt="Zips_Car_Wash_Logo.svg" width="36px" height="700px" src="https://zipscarwash.com/storage/zips/zips-logo.svg" /><b>Zips Car Wash | Site Manager</b> <i>(Mar 2020 - Jan 2024)</i>
 <br></br>
 <img align="left" alt="BI-LO.svg" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/BI-LO_Logo.svg" /><b>BI-LO | Customer Service Manager</b> <i>(Jan 2018 - Mar 2020)</i>
 
@@ -25,10 +25,10 @@
 - Operating Systems
 -
     
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
